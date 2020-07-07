@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/instructs/static/css/main.f0baed30.chunk.css",
-    "main.js": "/instructs/static/js/main.d15a37b0.chunk.js",
-    "main.js.map": "/instructs/static/js/main.d15a37b0.chunk.js.map",
-    "runtime-main.js": "/instructs/static/js/runtime-main.9d87f3d1.js",
-    "runtime-main.js.map": "/instructs/static/js/runtime-main.9d87f3d1.js.map",
-    "static/js/2.2952a1d5.chunk.js": "/instructs/static/js/2.2952a1d5.chunk.js",
-    "static/js/2.2952a1d5.chunk.js.map": "/instructs/static/js/2.2952a1d5.chunk.js.map",
-    "index.html": "/instructs/index.html",
-    "precache-manifest.90c6cf12edf468291c7f73dfbc2d9330.js": "/instructs/precache-manifest.90c6cf12edf468291c7f73dfbc2d9330.js",
-    "service-worker.js": "/instructs/service-worker.js",
-    "static/css/main.f0baed30.chunk.css.map": "/instructs/static/css/main.f0baed30.chunk.css.map",
-    "static/js/2.2952a1d5.chunk.js.LICENSE.txt": "/instructs/static/js/2.2952a1d5.chunk.js.LICENSE.txt"
+    "main.css": "/forumsBotInstructions/static/css/main.f0baed30.chunk.css",
+    "main.js": "/forumsBotInstructions/static/js/main.b70b0724.chunk.js",
+    "main.js.map": "/forumsBotInstructions/static/js/main.b70b0724.chunk.js.map",
+    "runtime-main.js": "/forumsBotInstructions/static/js/runtime-main.92360dd7.js",
+    "runtime-main.js.map": "/forumsBotInstructions/static/js/runtime-main.92360dd7.js.map",
+    "static/js/2.2952a1d5.chunk.js": "/forumsBotInstructions/static/js/2.2952a1d5.chunk.js",
+    "static/js/2.2952a1d5.chunk.js.map": "/forumsBotInstructions/static/js/2.2952a1d5.chunk.js.map",
+    "index.html": "/forumsBotInstructions/index.html",
+    "precache-manifest.c48ca01525f14ff2ea2f5aa2890f2737.js": "/forumsBotInstructions/precache-manifest.c48ca01525f14ff2ea2f5aa2890f2737.js",
+    "service-worker.js": "/forumsBotInstructions/service-worker.js",
+    "static/css/main.f0baed30.chunk.css.map": "/forumsBotInstructions/static/css/main.f0baed30.chunk.css.map",
+    "static/js/2.2952a1d5.chunk.js.LICENSE.txt": "/forumsBotInstructions/static/js/2.2952a1d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d87f3d1.js",
+    "static/js/runtime-main.92360dd7.js",
     "static/js/2.2952a1d5.chunk.js",
     "static/css/main.f0baed30.chunk.css",
-    "static/js/main.d15a37b0.chunk.js"
+    "static/js/main.b70b0724.chunk.js"
   ]
 }
